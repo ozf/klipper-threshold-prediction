@@ -31,5 +31,5 @@ python train_model.py
 ### 3. Predict Threshold
 
 ```sh
-python predict_threshold.py
+python predict_threshold.py 20 30 10 50 60 70 0.4
 ```
